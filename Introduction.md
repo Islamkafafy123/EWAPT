@@ -5,7 +5,7 @@
 - \r moves cursor to begining of the line , \n moves cursor down the next line
 - \r\n like pressing "ENTER" on the Keyboard
 - Request 
-- ![request](https://github.com/Islamkafafy123/Ewapt/blob/main/request.jpeg)
+- ![request](https://github.com/Islamkafafy123/Ewapt/blob/main/pictures/request.jpeg)
 - connection to google is initaited first before sending the HTTP commands to the webserver
 - request type here is  " GET " (Default Request When Typing URL in the location bar )
 -  " / " this is the file we are Requesting Which is the root folder of the website
@@ -19,4 +19,4 @@
 -  content coding allow a document to be commpressed or transformed without losing the identity of its media type
 -  keep-alive in the " Connection " header means that connection to the wevserver will continou to be sent without starting a new connection every time
 -  the web server will respond to the request with a respone with bunch of new headers
--  ![response](https://github.com/Islamkafafy123/Ewapt/blob/main/response.jpeg)
+-  ![response](https://github.com/Islamkafafy123/Ewapt/blob/main/pictures/response.jpeg)
