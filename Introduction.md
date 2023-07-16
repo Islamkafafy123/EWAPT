@@ -18,4 +18,5 @@
 -  " Accept-Encoding " restricts the content coding the are accepted in the response
 -  content coding allow a document to be commpressed or transformed without losing the identity of its media type
 -  keep-alive in the " Connection " header means that connection to the wevserver will continou to be sent without starting a new connection every time
+-  the web server will respond to the request with a respone with bunch of anew headers
 -  
