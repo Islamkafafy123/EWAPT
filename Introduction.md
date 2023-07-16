@@ -8,5 +8,14 @@
 - ![request](https://github.com/Islamkafafy123/Ewapt/blob/main/request.jpeg)
 - connection to google is initaited first before sending the HTTP commands to the webserver
 - request type here is  " GET " (Default Request When Typing URL in the location bar )
--  " / " this is the file we are Requesting Whic is the rott folder of the website
+-  " / " this is the file we are Requesting Which is the root folder of the website
 -  " HTTP/1.1 " This is the HTTP Protocol version the browser uses ( tells the webserver which version to communicate with )
+-  the begining of the  HTTP request headers  Starts With the  " Host " header  allow websever to host multiple websites at a single IP address
+-  the browser specifes in the host header which website we are interested in
+-  Host Header Value + Path compine to create full URL
+-  " User-Agent " reveals browser version , OS , Language to The Remote Server .
+-  " Accept " -> which docomunt type is expected to be returned as a result of the request
+-  " Accept-Encoding " restricts the content coding the are accepted in the response
+-  content coding allow a document to be commpressed or transformed without losing the identity of its media type
+-  keep-alive in the " Connection " header means that connection to the wevserver will continou to be sent without starting a new connection every time
+-  
