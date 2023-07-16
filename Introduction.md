@@ -20,3 +20,5 @@
 -  keep-alive in the " Connection " header means that connection to the wevserver will continou to be sent without starting a new connection every time
 -  the web server will respond to the request with a respone with bunch of new headers
 -  ![response](https://github.com/Islamkafafy123/Ewapt/blob/main/pictures/response.jpeg)
+-  The first line of the response is the status line consist of protocol version (HTTP\1.1) + numeric code ( 200 -> which means OK )
+-  ![status code]()
