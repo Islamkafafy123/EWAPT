@@ -7,6 +7,6 @@
 - Request 
 - ![request](https://github.com/Islamkafafy123/Ewapt/blob/main/request.jpeg)
 - connection to google is initaited first before sending the HTTP commands to the webserver
-- request type here is GET (Default Request When Typing URL in the location bar )
+- request type here is  " GET " (Default Request When Typing URL in the location bar )
 -  " / " this is the file we are Requesting Whic is the rott folder of the website
 -  " HTTP/1.1 " This is the HTTP Protocol version the browser uses ( tells the webserver which version to communicate with )
